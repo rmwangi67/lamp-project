@@ -12,5 +12,7 @@ This project demonstrates the deployment of a LAMP stack using Ubuntu, Apache, M
 ## Website
 http://51.20.67.53
 
+PHP Test Page: http://51.20.67.53/info.php
+
 ## Objective
 To configure a web server on AWS EC2 and prepare it to serve web pages using PHP and MySQL.
